@@ -1,7 +1,9 @@
 # Introduction
 
-Welcome to "World of protein", your one-stop destination for high-quality WHEY powder, protein bar & vitamins .
-my store is built with technology  including React, Typescript, Redux, SQLite3, Django, JWT, and Django Rest Framework.
+Welcome to "Gymboree", our equipments for sale becomes the perfect choice of thousands of parents who are looking to keep their childrens occupied. Here you will find everything you need to set up home Gymboree for babies and childrens.
+It is definitely a recommended way to let the kids release energy and have fun while you enjoy a few good hours of quiet.
+
+- my store is built with technology  including React, Typescript, Redux, SQLite3, Django, JWT, and Django Rest Framework.
 
 # Features
 
@@ -14,7 +16,7 @@ User Profile + Updating Information.
 internet explorer, safari, google chrome, opera, edge and firefox browser's.
 
 # Technologies Used
-React, Typescript, Redux, SQLite3, Django, JWT, and Django Rest Framework, python and docker.
+React, Typescript, Redux, SQLite3, Django, JWT, and Django Rest Framework, python.
 
 # Installation
 Deployments
@@ -36,10 +38,10 @@ Redux
 # backend
 Please clone the project, using the following command:
 
-git clone https://github.com/Iredel86/Final_Proj.git
+git clone https://github.com/Iredel86/gymboree_final.git
 Once you have cloned the project, navigate to the following directory:
 
-cd /finalProject/backend/
+cd /gymboree_final/gymboree_back
 Now you need install virtual environment
 
 pip install virtualenv
@@ -54,32 +56,26 @@ To use virtual environment in Windows:
 .\myenv\Scripts\activate
 
 In Mac:
-source env/bin/activate
+source myenv/bin/activate
 
 Install the Python requirements:
-
 pip install -r requirements.txt
 In the first Terminal window, run the following command to start the Django backend server:
 
-Mac
-(env) python manage.py runserver
-Windows
+Mac:
+(myenv) python manage.py runserver
 
-(env) py manage.py runserver
-Defult admin user
+Windows:
+(myenv) py manage.py runserver
+
+Default admin user
 # To access the admin panel of Django, please use the following credentials:
-
 Username: IdoLiron
 Password: 12345678
+
 Open the file titled 'globalVar.ts' and change the following line:
-
 in render deploy
-
-export const SERVER = "https://final-back-qviq.onrender.com/"
-
-Once you have cloned the Git repository, enter the following command to change the directory to the project directory:
-
-
+export const SERVER = "https://gymboree-mmic.onrender.com/"
 
 # LINK to MY WEBSITE
 https://remarkable-dolphin-79df5b.netlify.app/
@@ -87,10 +83,13 @@ https://remarkable-dolphin-79df5b.netlify.app/
 # FRONT
 Once you have cloned the project, navigate to the following directory:
 
-cd /Final_Proj/gymboree_front/my-app
+cd /gymboree_final/gymboree_front
 Now you need unstall al the packege for run app
 
 npm i
 After all the installation as finished
 
 npm start
+
+
+

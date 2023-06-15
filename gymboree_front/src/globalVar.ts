@@ -1,2 +1,2 @@
-export const SERVER:string = "https://final-back-qviq.onrender.com/";
+export const SERVER:string = "https://gymboree-mmic.onrender.com/";
 
