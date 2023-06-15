@@ -78,7 +78,7 @@ in render deploy
 export const SERVER = "https://gymboree-mmic.onrender.com/"
 
 # LINK to MY WEBSITE
-https://remarkable-dolphin-79df5b.netlify.app/
+https://warm-hamster-a53749.netlify.app/
 
 # FRONT
 Once you have cloned the project, navigate to the following directory:
