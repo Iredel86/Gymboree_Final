@@ -71,7 +71,7 @@ Windows:
 Default admin user
 # To access the admin panel of Django, please use the following credentials:
 Username: IdoLiron
-Password: 12345678
+Password: 12345
 
 Open the file titled 'globalVar.ts' and change the following line:
 in render deploy
